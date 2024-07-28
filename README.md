@@ -15,8 +15,8 @@ This project is a FastAPI-based web application for scraping product data and ca
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/fastapi-scraping-caching.git
-   cd fastapi-scraping-caching
+   git clone https://github.com/Sumit2034/atlys_test.git
+   cd atlys_test
 
 ### install the required dependencies:
 - pip install -r requirements.txt
