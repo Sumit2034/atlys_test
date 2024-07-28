@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+redis
+motor
+beanie
+aioredis
+pydantic-settings
+beautifulsoup4
+pydantic
